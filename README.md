@@ -15,4 +15,4 @@
   </p>
 </p>
 
-<div style="text-align: justify">dinabot/Dina Bot/ Diana Bot is a chatbot that can detect your emotions based on texts.</div>
+<div style="text-align: justify">Diana Bot/dinabot/Dina Bot is a chatbot that can detect your emotions based on texts. There are only 5 emotions that can be detected, which are love, happy, anger, sadness, dan fear. The model used for the bot is IndoBERT (https://arxiv.org/abs/2009.05387).</div>
